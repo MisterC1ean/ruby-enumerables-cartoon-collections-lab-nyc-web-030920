@@ -23,4 +23,5 @@ def find_the_cheese(ingredients)
     return cheese
   end
   end
+  return nil
 end
